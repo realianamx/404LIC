@@ -23,5 +23,4 @@ The nature of overlapping standards, however, does imply that integrating protoc
 
 
 Note:
-This Contract Is Originaly Deployed By "MYST" Project.
-We Just Modified It.
+Note: This Contract Is Originally Deployed By "MYST" Project. We Just Modified It.
